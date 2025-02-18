@@ -1,0 +1,2 @@
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\ProiectPI.exe
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\x64\Debug\ProiectPI.exe

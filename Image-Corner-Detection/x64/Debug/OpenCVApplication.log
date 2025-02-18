@@ -1,0 +1,42 @@
+﻿  OpenCVApplication.cpp
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(34,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(35,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(36,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(43,83): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(43,57): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(43,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(59,42): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\OpenCVApplication.cpp(59,39): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  OpenCVApplication.vcxproj -> C:\Users\micle\Desktop\AN III\SEM 2\PI\Proiect PI\Proiect PI\x64\Debug\ProiectPI.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
+  OpenCV\dll\Debug\opencv_world490d.dll
+          3 file(s) copied.
