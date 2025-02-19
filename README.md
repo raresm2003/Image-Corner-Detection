@@ -35,9 +35,9 @@ The goal of this project is to detect key points (corners) in grayscale images, 
 
 | Component          | Technology |
 |--------------------|------------|
-| Programming Language | Python |
+| Programming Language | C++ |
 | Image Processing   | OpenCV |
-| UI & Visualization | Matplotlib |
+| UI & Visualization | OpenCV GUI |
 
 ## ▶️ Running the Project
 
